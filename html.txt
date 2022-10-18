@@ -1,0 +1,3 @@
+The head section is used to give information to browsers and search engines about a webpage.
+
+press ! + tab in order to get the basic html format aka the html boilerplate
